@@ -1,4 +1,4 @@
-# vue-move-elements
+# vue-forms
 
 [Online Example](https://vue-forms.stas.tv/)
 
